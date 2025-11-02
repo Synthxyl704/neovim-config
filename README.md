@@ -1,3 +1,3 @@
 # NVChad Neovim configuartion
-<br> <hr>
+<hr>
 Neovim configuartion files!!!
