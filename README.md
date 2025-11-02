@@ -1,2 +1,3 @@
-# neovim-config
-Neovim configuartion files
+# NVChad Neovim configuartion
+<br> <hr>
+Neovim configuartion files!!!
